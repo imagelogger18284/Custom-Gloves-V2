@@ -5,7 +5,7 @@ local win = Clude:CreateWindow({
 local tab = win:CreateTab("Home")
 win:CreateButton(tab, " 🤑🙏Destroy UI🤑🙏 ", function()
     Clude:Destroy()
-print("Made By Vergil And UI Made By Cloud80 On YT")
+print("Made By Vergil And UI Made By Clude80 On YT")
 end)
 
 win:CreateButton(tab, " ⭐ Infinite Yield ⭐ ", function()
