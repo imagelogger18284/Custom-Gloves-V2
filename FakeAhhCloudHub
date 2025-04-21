@@ -3,7 +3,7 @@ local win = Clude:CreateWindow({
       Title = "Fake Clude Hub"
 })
 local tab = win:CreateTab("Home")
-win:CreateButton(tab, " 🤑🙏Destroy UI🤑🙏 ", function()
+win:CreateButton(tab, " 🙏Destroy UI🙏 ", function()
     Clude:Destroy()
 print("Made By Vergil And UI Made By Cloud80 On YT")
 end)
@@ -14,5 +14,10 @@ end)
 
 win:CreateButton(tab, " Nothing ", function()
     print("Does Nothing.")
+end)
+
+local tab = win:CreateTab(",🤑🙏Clude Hub Real🤑🙏")
+win:CreateButton(tab, " Clude Hub", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/CludeHub/Slap-Battles-Scripts/refs/heads/main/CludeHub'))()
 end)
 
