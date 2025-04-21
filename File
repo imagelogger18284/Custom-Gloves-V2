@@ -22,3 +22,18 @@ Section:NewButton("EdgeLord🟪⬛", "Made By Incognito Scripts (Did I Already T
 _G.NightMode = true loadstring(game:HttpGet("https://raw.githubusercontent.com/kizzysigma/nan/refs/heads/main/CrystalizedOBFS"))()
     print("Clicked")
 end)
+
+Section:NewButton("Minos Prime🟦", "Made By KietVN02202 (999 Aura Guy)", function()
+_G.NightMode = true loadstring(game:HttpGet("https://raw.githubusercontent.com/kizzysigma/nan/refs/heads/main/CrystalizedOBFS"))()
+    print("Clicked")
+end
+
+Section:NewButton("", "Made By KietVN02202 (999 Aura Guy)", function()
+_G.NightMode = true loadstring(game:HttpGet("https://raw.githubusercontent.com/kizzysigma/nan/refs/heads/main/CrystalizedOBFS"))()
+    print("Clicked")
+end)
+
+Section:NewButton(" Hub 💰💸 (key is anticheatGotNothinOnMoneyAhh)", "Made By Ribbined (⭐ULTRA AURA⭐", function()
+_G.NightMode = true loadstring(game:HttpGet("https://raw.githubusercontent.com/kizzysigma/nan/refs/heads/main/CrystalizedOBFS"))()
+    print("Clicked")
+end)
