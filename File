@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Custom Gloves By Vergil:D", "Midnight")
-local Tab = Window:NewTab("Death 💀")
+local Tab = Window:NewTab("Gloves Yippie!!")
 local Section = Tab:NewSection("Death Glove☠️")
 Section:NewButton("Death 0.9", "Made By Mojjos Btw", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DonjoScripts/Public-Scripts/refs/heads/Slap-Battles/UnFinishedDeathGlove-MadeByTheFool-.lua"))()
