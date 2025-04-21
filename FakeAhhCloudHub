@@ -16,3 +16,6 @@ win:CreateButton(tab, " Nothing ", function()
     print("Does Nothing.")
 end)
 
+win:CreateButton(tab, " 🤑🙏Clude Hub Real🤑🙏", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/CludeHub/Slap-Battles-Scripts/refs/heads/main/CludeHub'))()
+end)
