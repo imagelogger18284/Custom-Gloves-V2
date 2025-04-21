@@ -1,0 +1,18 @@
+local Clude = loadstring(game:HttpGet("https://raw.githubusercontent.com/CludeHub/SourceCludeLib/refs/heads/main/SourceLib.lua"))()
+local win = Clude:CreateWindow({
+      Title = "Fake Clude Hub"
+})
+local tab = win:CreateTab("Home")
+win:CreateButton(tab, " 🤑🙏Destroy UI🤑🙏 ", function()
+    Clude:Destroy()
+print("Made By Vergil And UI Made By Cloud80 On YT")
+end)
+
+win:CreateButton(tab, " ⭐ Infinite Yield ⭐ ", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/main/latest.lua'))()
+end)
+
+win:CreateButton(tab, " Nothing ", function()
+    print("Does Nothing.")
+end)
+
