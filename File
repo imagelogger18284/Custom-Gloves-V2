@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://github.com/imagelogger18284/Fixed-Hub/raw/refs/heads/main/Drag"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Custom Gloves By Vergil:D", "Midnight")
 local Tab = Window:NewTab("Gloves Yippie!!")
 local Section = Tab:NewSection("Death Glove☠️")
